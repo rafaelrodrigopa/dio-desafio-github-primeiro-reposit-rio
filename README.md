@@ -23,3 +23,6 @@ git commit -m "Descrição do commit"
 
 ##### Comando para enviar commit para o github</br>
 git push
+
+### Alteração local do projeto e envio para repositório no github
+Está é a alteração realizada no localmente no projeto.
